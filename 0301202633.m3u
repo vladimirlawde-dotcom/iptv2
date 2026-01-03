@@ -2488,7 +2488,7 @@ http://cdn.admuspeh.my/9120/video.m3u8?token=BHRHLLb7KK5CaFHX
 #EXTINF:0, SWR Fernsehen RP HD DE
 #EXTVLCOPT:network-caching=1000
 http://cdn.admuspeh.my/9119/video.m3u8?token=BHRHLLb7KK5CaFHX
-#EXTINF:0, BR Fernsehen Süd HD DE
+#EXTINF:0, BR Fernsehen SÃ¼d HD DE
 #EXTVLCOPT:network-caching=1000
 http://cdn.admuspeh.my/9122/video.m3u8?token=BHRHLLb7KK5CaFHX
 #EXTINF:0, rbb fernsehen Berlin HD DE
