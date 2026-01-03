@@ -1,0 +1,3204 @@
+#EXTM3U
+#EXTINF:24, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8001/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8150/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8425/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8145/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8299/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8120/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8002/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8152/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8426/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8102/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8300/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8072/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8125/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Planeta RTR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8121/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8641/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8560/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8071/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8003/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8156/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8427/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8225/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8298/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8307/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8011/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8306/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8308/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8383/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8004/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8312/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8005/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8195/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8174/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8007/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8311/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8194/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8058/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8350/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8330/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8006/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RTVI
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8118/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8146/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8525/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8363/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8575/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RT#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9225/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8009/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, EuroNews
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8084/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CNN HD US
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8760/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CNN HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8861/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Fox News US
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8378/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ABC HD US
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8122/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BBC News US
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8036/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BBC 2 HD US
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8673/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, France 24
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8397/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CNBC US
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8675/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8113/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8353/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8197/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8301/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8401/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8012/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8020/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9236/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9246/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8046/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8331/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8062/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9204/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8124/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8099/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8114/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8066/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8008/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8640/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8063/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8140/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Food Time HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8650/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Food Network
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8385/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8094/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8182/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Travel+Adventure HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8170/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8649/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8127/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8053/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8105/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8360/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8551/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8081/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8456/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8172/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Zoo#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8655/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8665/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8654/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8095/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9205/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9206/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8316/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8324/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8065/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8183/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8317/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8206/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9220/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8073/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8337/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8369/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8104/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 365 #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8068/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8069/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8075/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8167/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8076/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8180/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Discovery Investigation
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8074/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, National Geographic
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8080/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, National Geographic HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8176/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8079/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8188/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Travel Channel
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8083/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Travel Channel HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8315/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Terra
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8078/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nano TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8181/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8196/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, HGTV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8355/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TLC
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8060/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8082/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, History HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8356/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, History 2 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9226/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, viju History HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8086/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, viju Explore HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8085/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, viju Nature HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8087/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, DocuBox
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8528/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8154/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Da Vinci
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8088/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RTG
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8151/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RTG HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8173/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, HDL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8175/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8214/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8192/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8164/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8017/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, English Class HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8208/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8550/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8670/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, World Fashion Channel HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8103/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8304/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVM Channel
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8666/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8200/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, UDAR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8319/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MMA-TV HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8380/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8201/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8016/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8179/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8027/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8018/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8019/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8023/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8549/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8024/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8021/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8236/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8022/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8237/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8029/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8238/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8147/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8368/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8367/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, KHL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8025/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, KHL Prime HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8297/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, NBA TV US
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8061/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8013/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Eurosport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8178/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8014/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Eurosport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8163/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sports F1 HD UK
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8688/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Extreme Sports
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8098/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ESPN US
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8755/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, viju+ Sport HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8015/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8187/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8326/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Setanta Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8565/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8101/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8126/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8361/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8135/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RU TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8185/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Bridge TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8527/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Bridge TV Classic
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8450/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Bridge TV HITS HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9202/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Bridge TV DELUXE HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9203/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Bridge TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9227/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Bridge TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9228/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Bridge TV ROCK HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9229/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Bridge TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9230/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Bridge TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9231/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Europa Plus HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8033/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MCM Top HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8351/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, VIVA Russia HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8567/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8318/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Russian Music Box
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8189/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8190/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Setanta Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8676/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8335/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8336/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8273/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8284/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 1+1 #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8482/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 1+1 #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8116/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 2+2 UA
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8117/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ICTV UA
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8092/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ICTV 2 UA
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8077/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8211/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 5 #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8093/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 8 #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8334/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8243/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 24 #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8344/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Free#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8540/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8345/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9324/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9325/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9326/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Enter-#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9327/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9328/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Bolt HD UA
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9329/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Zoom HD UA
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9332/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Star Cinema HD UA
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9330/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8089/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8347/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8090/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8138/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8280/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8130/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8100/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, FilmUADrama HD UA
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8314/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8816/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8828/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Setanta Sports HD UA
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8382/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Setanta Sports+ HD UA
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8329/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport 1 UA
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8234/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport 2 UA
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8235/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8285/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, viju TV1000 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8048/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, viju TV1000 action HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8049/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, viju TV1000 #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8050/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, viju TV1000 #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8973/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, viju+ Premiere HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8119/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, viju+ Megahit HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8109/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, viju+ Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8108/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, viju+ Serial HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9222/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8037/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8403/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9221/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8391/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8707/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8059/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8010/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8390/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8039/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8040/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8041/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8042/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8043/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8047/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8044/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8199/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8357/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8038/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8070/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8096/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8136/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8139/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8313/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8740/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8165/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8207/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8034/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8134/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, .sci-fi
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8115/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, .black
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8663/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, .red
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8653/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, .red HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8929/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, FX
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8051/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, FX HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8168/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, FX Life
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8052/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8310/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8946/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8970/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8940/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8948/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8198/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8028/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8296/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8322/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8026/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8132/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8161/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8162/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8184/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8323/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8169/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, START Air HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8398/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, START World HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8402/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Dizi
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8667/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8412/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8155/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8171/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Amedia 1
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8035/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Amedia 1 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8204/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Amedia 2 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8927/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Amedia Premium HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8215/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Amedia Hit HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8159/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Hollywood HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8651/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Bollywood HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8240/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Shot TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8358/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8662/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, FAN HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8386/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, FilmBox
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8938/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, FilmBox Arthouse HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8661/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Star Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8935/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Star Family HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8936/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8664/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV XXI
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8213/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8648/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8942/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8370/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8944/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, KION #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8966/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kinoliving
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8148/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, FlixSnip
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8928/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Scream HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8932/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8937/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8939/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8941/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sumiko HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8968/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Suspense HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8971/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Trash HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8945/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, VHS-#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8962/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Plan B HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8947/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, DetectiveJam
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8963/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8965/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8949/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan FHD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8952/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan MiniSeries FHD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8961/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan TOP FHD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8959/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan Marvel FHD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8951/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8960/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8954/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8957/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan Premium FHD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8967/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8955/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8958/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8802/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8833/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8772/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8574/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8826/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8871/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9121/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8824/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8767/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8771/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan VHS FHD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8807/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan Emergency Room FHD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8821/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8825/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan Cartoons BIG FHD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8866/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan Cartoons Short FHD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8867/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan Cartoons 90 FHD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8812/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan XXX FHD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8868/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan XXX2 FHD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8869/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan OLD 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8804/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan CCCP 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8795/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CineMan Relax 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8822/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Newfilm 1
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8741/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Newfilm 2
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8742/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Newfilm 3
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8743/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax NewFilm RU HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8706/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8442/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8449/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8745/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8725/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Love HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8328/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8708/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8631/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8778/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8325/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8994/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8634/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8746/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8619/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8621/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8624/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8710/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8627/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8733/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8685/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8799/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8545/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8658/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Translation HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8633/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax World Hits HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8617/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Flip UHD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8404/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8629/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax UFO HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8410/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8916/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8652/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8559/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8709/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8622/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8547/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax OldSchool HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8644/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Celebrity HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8991/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8628/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8623/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8618/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8933/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8620/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8893/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8626/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax 007 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8327/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Classic HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8632/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8630/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8789/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8411/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax USSR #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8744/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax USSR #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8894/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax USSR #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8656/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax USSR #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8616/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax USSR 1941-1945 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8614/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax USSR #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8615/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax USSR #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8913/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Live Planet HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8599/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Relax HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8793/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8779/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8625/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8635/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8636/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8770/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Experiment HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8643/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8647/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Rock HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8679/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Walt Disney HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8914/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Tom and Jerry HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8997/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Honey HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8895/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Lesson HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8597/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Family Guy HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8645/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MiniMax Smile HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8587/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MS ANIMATED HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8993/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MS TOONS HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8639/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MS CRIME HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8637/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MS PRISONS HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8638/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MS YOUNG BLOOD HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8642/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MS MAGIC 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8657/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, GoldLine Brief
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8568/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, GoldLine Evidence
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8569/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, GoldLine Exist
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8489/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, GoldLine Island
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8534/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, GoldLine #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8570/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, GoldLine Psycho
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8483/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, GoldLine Series
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8533/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, GoldLine Survival
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8571/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, GoldLine #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8573/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, GoldLine #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8501/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8392/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8295/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVP HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8303/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVP 1 HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8858/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVP 2 HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8774/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVP 3 PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8834/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVP INFO HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8859/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV4 HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8829/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV6 HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8790/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVS PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8950/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV PULS HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8864/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Polsat HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8409/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Polsat 2 HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8953/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Polsat News 2 PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8787/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Polsat Sport 1 PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8566/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Polsat Sport 2 PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8564/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nickelodeon PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9210/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, AXN HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9212/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, AXN SPIN HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9211/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVN HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9213/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVN 7 HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9218/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVN Fabula HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9214/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVN24 BiS HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9215/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVN Style HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9216/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVN Turbo HD PL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9217/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8677/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Ultra REX 4k
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8907/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Fashion&Style 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8678/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Travelxp 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8680/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Quadro 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8681/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8683/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8684/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Museum 4k
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8905/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Ultra Cinema 4k
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8906/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, etv HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8512/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, etv+ HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9219/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, etv2 HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8943/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kanal2 HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8491/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV3 HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8557/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, DUO 3 HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8791/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, DUO 4 HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8492/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, DUO 5 HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8493/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, DUO 6 HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8364/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kanal 7 HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8494/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Eesti Kanal EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8518/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV6 HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8496/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Fox Baltic EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8495/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, My Hits EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9045/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kidzone Mini HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9026/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nick Jr. EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9027/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nickelodeon EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9028/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Sport 1 HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9022/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Sport 2 HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9023/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Sport 3 HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9024/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Sport 4 HD EE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9025/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV1 HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8698/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 2TV HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9030/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV3 HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8696/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV6 HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8697/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV8 LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8511/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Filmzone Plus HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9032/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Lietuvos Rytas LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8497/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, INFO TV LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8499/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Duo 3 HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8502/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Duo 6 HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8503/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Balticum LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8504/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Balticum Auksinis LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8505/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Balticum Platinum HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8510/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BTV LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8750/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, LRT HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8752/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, LRT Plius HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8753/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Pukas TV LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8506/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Seimas Tiesiogiai LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8507/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Init TV LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8509/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Delfi TV LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8519/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Films LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8514/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kidzone Max HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9037/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kidzone Mini HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9038/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nick Jr. LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9039/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nickelodeon LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9040/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nicktoons LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9041/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport 1 LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8705/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Sport 1 LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8899/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Sport 2 LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8898/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Sport 4 HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9035/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Sport Open HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9036/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, LNK HD LT
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8751/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV24 HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8783/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 360TV HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8660/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 8TV LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8695/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, LTV1 LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8408/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, LTV7 HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9005/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV3 HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9014/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 3+ LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8776/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV3 life LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8389/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV3 mini LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8897/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV4 HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9015/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV6 LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8490/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Films HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8995/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Duo 3 HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8749/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Duo 5 HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8754/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Duo 6 HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8756/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Epic Drama HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8757/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Filmzone HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8758/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, OTV HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9009/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Re:TV HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9010/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, STV Pirma! HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9011/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Latvijas Slagerkanals HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9004/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Super Baltic HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9012/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Super+ HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9013/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Filmzone Plus HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8759/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Viasat Kino HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9020/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Viasat Kino World HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9034/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Viasat Kino Comedy LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9019/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Viasat Kino Action HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9018/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kidzone Max HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9002/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kidzone Mini HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9003/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nick Jr. LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9006/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nickelodeon LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9007/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nicktoons LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9008/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Discovery Channel HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8748/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Viasat Explore HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9016/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Viasat History HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9017/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Viasat Nature HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9029/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Courtside 1891 TV HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9044/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Prime Fight HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9097/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Setanta Sports 1 HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9046/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Best4SportTV HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8747/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Sport 1 HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8996/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Sport 2 HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9000/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Sport 3 HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8909/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Sport 4 HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9001/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Go3 Sport Open HD LV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9047/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, QAZAQSTAN KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8106/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Qazaqstan International HD KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9312/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8901/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8515/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Aqsham TV KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9253/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9279/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9280/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9282/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9284/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Ulytau KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9289/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9294/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9296/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9297/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Atameken Business HD KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9300/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9301/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9302/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Almaty KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9304/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 24kz KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8915/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Hit TV KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9295/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9308/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Munara TV KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9310/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, HAN-TV KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9313/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9314/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Jibek Joly HD KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9315/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9318/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8520/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9291/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8902/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9311/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, SHOW HD KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9319/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 7 #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8521/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Astana TV KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8522/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8523/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 31 #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8529/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Saryarqa KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8287/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ONTUSTIK KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9281/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ATYRAY KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9283/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, JAMBYL KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9285/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, KOKSE KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9286/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, QOSTANAI KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9287/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, SEMEI KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9288/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, AQJAIYQ KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9290/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, QYZYLORDA KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9292/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MANGYSTAY KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9298/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ERTIS KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9299/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, QYZYLJAR KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9303/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, AQTOBE KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9306/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ALTAI KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9307/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, QADAM TV KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9309/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9293/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9320/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9321/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9322/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9323/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Setanta Qazaqstan HD KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8538/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Setanta Sports 1 HD KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8379/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Setanta Sports 2 HD KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8537/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport Plus Qazaqstan HD KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9316/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Q League HD KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8539/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Q Arena HD KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9305/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Qazsport HD KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8541/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, QFootball HD KZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9317/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Moldova 1 MD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8900/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Moldova 2 MD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8543/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Jurnal TV MD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8508/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVC21 MD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8498/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV8 HD MD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8544/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, N4 MD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8548/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Pro TV HD RO
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8699/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVR 1 RO
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8700/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVR 2 RO
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8701/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVR 3 RO
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8702/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Prima Sport 1 RO
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8554/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Prima Sport 2 RO
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8555/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Digi Sport 1 RO
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8556/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Digi Sport 2 RO
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8558/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Digi Sport 3 RO
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8561/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Digi Sport 4 RO
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8563/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCUMEDIA HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8886/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Premiere HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8475/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Premiere HDR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8883/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8468/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8870/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8473/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8872/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8474/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8873/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Action HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8481/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Action HDR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8876/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Marvel HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8476/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Marvel HDR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8882/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8477/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Comedy HDR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8878/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Fantastic HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8478/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Fantastic HDR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8879/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU FilMystic HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8479/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU FilMystic HDR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8880/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Cosmo HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8480/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Cosmo HDR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8975/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Cinema+ HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8892/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8891/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Kinorating HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8455/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8874/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8875/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Catastrophe HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8877/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU History HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8881/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Romantic HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8884/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Criminal HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8890/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Stars HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8885/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU TruMotion HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8977/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Survival HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8912/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Reality HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8910/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8889/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Russian HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8457/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Russia 90s HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8980/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU RUSERIAL HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8888/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU VHS HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8908/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Charm HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8978/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Ultra 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8887/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Premiere Ultra 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8911/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Kids 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8976/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Little HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8979/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Kids HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8458/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BCU Kids+ HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8454/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Franchise HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8982/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Hybrid HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8983/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Gangster HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8985/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Oscar HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8986/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Spy HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8354/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Anime HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8984/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Memory HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8987/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Serial HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8989/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Cyber HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8419/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Apocalypse HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8441/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Zombie HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8418/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Fantasy HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8430/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX M Serial HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8988/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Mayday HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8434/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Western HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8417/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Ghost HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8428/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Be On Edge HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8423/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Be On Edge Live 1 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8421/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Be On Edge Live 2 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8422/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Be On Edge Live 3 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8467/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Sportcast HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8436/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Sportcast Live 1 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8981/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Sportcast Live 2 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8447/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Sportcast Live 3 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8451/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Sportcast Live 4 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8459/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Sportcast Live 5 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8460/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Sportcast Live 6 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8463/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Sportcast Live 7 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8464/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Sportcast Live 8 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8465/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Sportcast Live 9 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8466/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Gurman HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8439/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Docu HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8424/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Stories HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8429/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Travel HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8416/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Travel Premiere HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8438/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Autotrend HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8440/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Lofi HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8446/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Rurap HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8435/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Metall HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8437/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Music 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8990/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Kosmo 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8448/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Relax 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8338/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Serial 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8432/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Serial Premiere 4K	
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8452/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Premiere 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8431/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Ultrastars 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8444/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Remast 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8433/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Remast Plus 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8443/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8445/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX Russian 4K
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8453/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX SR Sport 1 Live 4k HDR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8469/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX SR Sport 2 Live 4k HDR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8470/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX SR Sport 3 Live 4k HDR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8471/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BOX SR Sport 4 Live 4k HDR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8472/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9223/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9224/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8064/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8055/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8166/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nick Jr.
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8153/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8332/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TiJi
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8110/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 2x2
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8045/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8054/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8157/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8223/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8576/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8056/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8057/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8067/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Gulli Girl
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8097/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8375/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8133/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8158/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8321/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9021/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9031/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9048/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9049/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9050/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9051/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9053/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9056/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9057/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9059/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9060/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9062/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9065/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9066/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9067/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9068/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9069/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9070/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9072/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9073/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9074/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9075/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9076/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9078/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9079/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9081/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9082/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9083/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9085/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9033/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9087/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9088/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9089/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9090/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9091/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9092/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9093/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9094/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9095/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9096/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9052/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9054/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9055/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9058/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9061/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9063/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9064/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9077/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9080/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kernel TV #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9084/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8129/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Brazzers TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8131/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Brazzers TV Europe
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8407/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8191/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Playboy TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8193/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Private TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8203/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Penthouse Gold HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8342/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Penthouse Reality TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9248/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Extasy HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9234/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Dorcel TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9235/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9250/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, XXL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9249/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Redlight HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9247/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, KinoXXX
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9240/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Babes TV HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9252/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8343/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Blue Hustler
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8405/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Vivid Red
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8374/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Vivid Red HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8374/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RED Lips HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8030/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Barely Legal TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8413/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Exxxotica
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8414/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Eroxxx HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8415/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Hustler TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8128/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, FRENCHLOVER
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8393/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, XY Mix
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9237/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, XY Max
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9251/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, XY Plus
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9254/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Fap TV 2 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9242/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Fap TV 3
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9243/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Fap TV 4 HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9244/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Fap TV Anal HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8407/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Fap TV Parody HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9177/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Fap TV Teens
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9238/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Fap TV Lesbian HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9239/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Fap TV Compilation HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9241/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Fap TV BBW HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9245/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Milf HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9255/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Blowjob HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9264/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Big Dick HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9256/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Big Tits HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9257/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Fetish HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9258/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Pornstar HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9259/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Big Ass HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9260/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Interracial HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9261/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Latina HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9262/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV POV HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9263/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Teen HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9265/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Hardcore HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9266/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Cuckold HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9267/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Threesome HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9268/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Russian HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9269/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Lesbian HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9270/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Rough HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9271/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Gangbang HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9272/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Anal HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9273/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Compilation HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9274/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Brunette HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9275/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Blonde HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9276/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Gay HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9277/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Adult TV Asian HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9278/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8107/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8524/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8309/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8348/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8160/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8400/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8143/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8352/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8112/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8349/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Channel 24 IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8371/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Good Life HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8717/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Home Plus IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8703/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Ego Total IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8726/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, VIVA IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8526/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Viva+ IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8372/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Yamtihoni IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8123/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kan Chinuchit 23 IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8730/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kneset IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8723/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Hidabroot IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8530/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Discovery HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8718/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Health Channel HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8728/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Food Channel HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8727/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Travel Channel IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8721/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Turkish Dramas Plus IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8722/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Turkish Dramas Plus HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8346/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport 1 HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8339/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport 2 HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8341/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport 3 HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8340/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport 4 HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8513/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport 5 HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8420/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport 5 Plus HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8141/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport 5 Liv#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8239/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport 5 Stars HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8186/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport 5 Gold HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8974/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ONE 1 HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8704/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ONE 2 HD IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8724/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Hop IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8232/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Baby IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8305/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Luli IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8517/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TeenNick IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8233/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Disney IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8149/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Disney Jr. IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8373/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nick Jr IL
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8231/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 1-2-3.tv HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9117/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ATV DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8270/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, AXN HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8646/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ARD HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8762/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TELE 5 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9141/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ONE HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9126/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CHANNEL21 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8388/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Anixe Serie HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8275/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ANIXE+ HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9136/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, NIEDERBAYERN TV Landshut HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9112/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, SPIEGEL Geschichte HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8794/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RT DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8925/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, n-tv HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8251/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, HSE HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9132/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, NDR HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8091/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, SWR Fernsehen BW HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9120/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, SWR Fernsehen RP HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9119/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BR Fernsehen Süd HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9122/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, rbb fernsehen Berlin HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9123/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, SR Fernsehen HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9127/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Euronews Deutsch DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9104/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RTL HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8250/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RTL 2 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8254/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RTLup DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9113/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RTL PASSION HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8773/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RTL Living HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9111/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RTL Crime HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8274/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, RTL Nitro HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8253/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Super RTL HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8252/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sat.1 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8255/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, SAT.1 GOLD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9142/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 3sat HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8264/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ProSieben HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8256/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ProSieben Maxx HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8265/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kabel Eins HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8257/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kabel Eins Doku DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9144/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, N24 Doku HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8258/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, SIXX HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8259/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ZDF HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8260/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ZDF INFO HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9129/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ZDFneo HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9128/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ZDFinfo HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9129/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, VOX HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8262/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, VOXup HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9116/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, arte HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8261/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Das Erste HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8263/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ORF 1 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8271/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ORF 2 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8272/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, DF1 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9109/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Warner Film HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8281/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Warner Comedy HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8399/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Warner Serie HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8282/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 13th Street HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8290/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, HR HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8279/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Syfy HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8288/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, wedo movies HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9103/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, WDR HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8797/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, WELT HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8798/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, DMAX HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8291/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, COMEDY CENTRAL DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8267/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, NAT GEO WILD HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8269/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, GEO Television HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9143/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, tagesschau24 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9125/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Universal Channel HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8796/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, INPLUS HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9105/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, INULTRA UHD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9115/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TOP SERIEN HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9102/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, OUTtv HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9137/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, DELUXE MUSIC DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8691/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, SCHLAGER DELUXE HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9138/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ONE MUSIC TELEVISION HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9100/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ZWEI MUSIC TELEVISION HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9101/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, FOLX MUSIC TELEVISION HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9099/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Stingray Classica HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9133/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Stingray iConcerts HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9134/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Stingray DJAZZ HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9135/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, DMF HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9098/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Jukebox HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9110/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, sonnenklar.TV HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9140/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Schlagerparadies.TV HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9130/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Volksmusik.TV HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9164/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Ballermann TV HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9131/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, K-TV HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9145/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, KIKA HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8268/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Disney Channel HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8276/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TOGGO plus DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9114/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nicktoons DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8926/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nick/Comedy Central+1 DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9106/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky One HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8921/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Documentaries HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8923/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Replay HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8922/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Nature HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8920/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Krimi HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8781/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Crime HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8780/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Atlantic HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8289/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Cinema Premieren HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8286/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Cinema Classics HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8924/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Cinema Family HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8775/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Cinema Highlights HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8362/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Cinema Action HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8283/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Mix HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8674/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport News HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8277/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Golf HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8918/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sports F1 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8687/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Prem League HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8917/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport 1 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9146/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport 2 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9147/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport 3 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8782/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport 4 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9148/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport 5 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8784/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport 6 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9149/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport 7 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9150/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport 8 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9151/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport 9 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9152/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport 10 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9153/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Bundesliga HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9154/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Bundesliga 1 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8278/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Bundesliga 2 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8394/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Bundesliga 3 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8395/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Bundesliga 4 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8396/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Bundesliga 5 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9155/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Bundesliga 6 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9156/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Bundesliga 7 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9157/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Bundesliga 8 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9158/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Bundesliga 9 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9159/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sky Sport Bundesliga 10 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9160/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport 1 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8266/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, SPORTDIGITAL FUSSBALL HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9107/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Red Bull TV HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9118/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Eurosport 2 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8768/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, DAZN 1 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8763/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, DAZN 2 HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8764/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Romance TV HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8672/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Servus TV HD DE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8689/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Imedi TV HD GE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8202/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Ajara TV HD GE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8205/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 1TV GE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8216/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Maestro GE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8217/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Rustavi 2 GE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8562/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Pirveli GE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8761/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV 25 GE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8536/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, GDS TV GE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8224/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Comedy TV GE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8972/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Palitra News GE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9139/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kavkasia GE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9169/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Marao GE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9181/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Formula GE
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8659/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8209/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8210/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8212/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9173/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TVT TJ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9174/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Toshkent UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8241/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sport UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8242/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Madaniyat va Marifat UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8244/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Dunyo Bo#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8245/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Bolajon UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8246/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, O#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8247/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Mahalla UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8248/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Navo UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8218/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nurafshon TV UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9171/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ZOR TV HD UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9172/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, BIZ TV HD UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9163/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Milliy TV HD UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9180/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Dasturxon TV UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9182/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, UzReport HD UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9162/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Mening Yurtim UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9161/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Sevimli UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9042/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Aqlvoy UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9043/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Renessans TV UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9124/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Yoshlar UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8219/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, O'zbekiston UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8220/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kinoteatr UZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8222/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Space TV AZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8226/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, AzTV AZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8227/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Ictimai Televiziya AZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8228/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CBC AZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8229/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, X#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8230/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ARB HD AZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8553/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Azad TV AZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8552/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, CBC Sport AZ
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8852/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Armenia TV HD AM
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8142/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kentron TV AM
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8249/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Shant TV AM
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8320/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Shant Premium HD AM
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8384/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Armenia TV AM
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8692/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ABN HD AM
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8693/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, SONG TV HD AM
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8366/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, H1 HD AM
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9176/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Ararat AM
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9175/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8381/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8144/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8546/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8302/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8999/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8694/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9207/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9208/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9209/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ATV TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8956/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ATV HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8669/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Dream Turk HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8934/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 24 TV TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8969/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Dream Turk TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8862/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV 8.5 TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8814/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kanal 7 HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8668/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, A SPOR HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8930/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, A HABER HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8919/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, minikaGO TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8769/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, STAR TV HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8800/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TRT AVAZ HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8801/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TRT Haber HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8805/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TRT Muzik TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8806/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TRT 3 SPOR TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8808/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TRT 1 HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8809/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV8 HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8811/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, NTV HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8813/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Minika Cocuk TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8815/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Kanal D HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8817/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Teve 2 HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8818/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Haberturk HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8819/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Beyaz TV HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8823/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TRT Spor HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8827/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Show Turk HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8845/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nr1 Turk HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8863/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TRT Belgesel HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8860/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Bloomberg HT HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8857/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TRT KURDI TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8841/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV 4 HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8837/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 360 HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8844/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TV 100 HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8831/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Halk TV TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8842/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Spor Smart HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8832/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, TRT COCUK HD TR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8803/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ERT 1 GR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8855/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ERT 2 GR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8850/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ERT 3 GR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9188/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, MEGA GR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9189/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, ANT1 GR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9191/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Star GR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9193/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, SKAI GR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9194/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Makedonia GR
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9195/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9196/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9197/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, bTV BG
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9198/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, bTV Cinema BG
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9199/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, bTV Comedy BG
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9200/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, NOVA BG
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9201/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, La 1 HD ES
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8765/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, La 2 HD ES
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8847/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, 24 HORAS ES
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8835/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Antena 3 HD ES
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8590/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Boing ES
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8584/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Nova HD ES
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8848/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Calle 13 HD ES
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8853/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, laSexta HD ES
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8849/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Cuatro HD ES
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8846/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Movistar Deportes 1 HD ES
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8836/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Caza y Pesca HD ES
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8839/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Be Mad HD ES
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/9179/video.m3u8?token=BHRHLLb7KK5CaFHX
+#EXTINF:0, Telecinco HD ES
+#EXTVLCOPT:network-caching=1000
+http://cdn.admuspeh.my/8854/video.m3u8?token=BHRHLLb7KK5CaFHX
